@@ -1,0 +1,21 @@
+en:
+  welcome:               'Welcome to Calculator!:'
+  number1:               "What's the first number?"
+  number2:               "What's the second number?"
+  operator_prompt:       'Which operation to perform? 1) add 2) subtract 3) multiply 4) divide'
+  redo:                  'Perform another operation?(Yes or No)'
+  goodbye:               'Thank you for using the calculator :)'
+  zero_div_error:        'Cannot divide with zero:'
+  choose_operator_error: 'Please select: 1, 2, 3, or 4'
+  invalid_num:           'Invalid number, please try again:'
+es:
+  welcome:               "Bienvenido a la calculadora!"
+  number1:               "¿Cuál es el primer número?"
+  number2:               "¿Cuál es el segundo número?"
+  operator_prompt:       '¿Qué operación realizar? 1) sumar 2) restar 3) multiplicar 4) dividir'
+  redo:                  '¿Realizar otra operación? (Sí o No)'
+  goodbye:               'Gracias por usar la calculadora :)'
+  zero_div_error:        'No se puede dividir con cero:'
+  choose_operator_error: 'Por favor seleccione: 1, 2, 3 o 4'
+  invalid_num:           'Número no válido, inténtelo de nuevo:'
+

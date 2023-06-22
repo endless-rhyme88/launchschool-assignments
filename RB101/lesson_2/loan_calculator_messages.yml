@@ -1,0 +1,23 @@
+en:
+  lang_selection: "Press 1) English, Press 2) Espanol"
+  welcome: 'Welcome to Loan Calculator!'
+  input_loan: 'What is the loan amount?:'
+  input_interest: 'What is the interest rate?:'
+  duration_in_years: 'What is loan duration in years?:'
+  duration_in_months: "What is loan duration in months?:"
+  invalid_num: 'Sorry, invalid input, please try again:'
+  monthly_interest_rate: "Your monthly interest rate is: {interest_rate}"
+  loan_duration: "The duration of your loan will be: #{loan_duration} months"
+  monthly_payment: "Payment every month: "
+  redo: 'Perform another operation?(Yes or No)'
+  goodbye: 'Thank you for using the loan calculator :)'
+
+es:
+  welcome: '¡Bienvenido a la calculadora de préstamos!'
+  input_loan: '¿Cuál es el monto del préstamo?:'
+  input_interest: '¿Cuál es la tasa de interés?:'
+  duration_in_years: '¿Qué es la duración del préstamo en años?:'
+  duration_in_months: "¿Cuál es la duración del préstamo en meses?:"
+  invalid_num: 'Número no válido, inténtelo de nuevo:'
+  redo: '¿Realizar otra operación? (Sí o No)'
+  goodbye: 'Gracias por usar la calculadora :)'
